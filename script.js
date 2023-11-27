@@ -60,3 +60,5 @@ console.log(personalMovie.movies+`${sorov1}`);
 console.log(personalMovie.movies+`${sorov2}`);
 console.log(personalMovie.movies+`${sorov3}`);
 console.log(personalMovie.movies+`${sorov4}`);
+
+alert('Hello Javascript')
